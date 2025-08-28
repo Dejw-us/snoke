@@ -1,0 +1,10 @@
+[package]
+name = "snake"
+version = "0.1.0"
+edition = "2024"
+
+[workspace]
+members = [ "snake_http","snake_server"]
+
+[dependencies]
+tokio = {version = "1.47.1", features = ["full"]}
