@@ -5,4 +5,4 @@ edition = "2024"
 
 [dependencies]
 tokio = {version = "1.47.1", features = ["full"]}
-snake_http = {path = "../snoke_http"}
+snoke_http = {path = "../snoke_http"}
