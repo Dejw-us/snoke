@@ -225,7 +225,7 @@ name = "snake_http"
 version = "0.1.0"
 
 [[package]]
-name = "snake_server"
+name = "snoke_server"
 version = "0.1.0"
 dependencies = [
  "snake_http",
